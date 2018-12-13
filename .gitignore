@@ -1,0 +1,9 @@
+**/__pycache__
+**/*.pyc
+**/*.zip
+**/*.png
+**/*.out
+**/*.build
+HW02-NaiveBayesClassifier/datasets/
+HW05-Clustering/src/kkmean_figs
+HW05-Clustering/src/kmean_figs
